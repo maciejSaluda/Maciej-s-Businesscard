@@ -14,6 +14,7 @@
 		53706BC227E2142A001190D9 /* Maciej_CardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53706BC127E2142A001190D9 /* Maciej_CardTests.swift */; };
 		53706BCC27E2142A001190D9 /* Maciej_CardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53706BCB27E2142A001190D9 /* Maciej_CardUITests.swift */; };
 		53706BCE27E2142A001190D9 /* Maciej_CardUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53706BCD27E2142A001190D9 /* Maciej_CardUITestsLaunchTests.swift */; };
+		53D7098927E237A0004C0B39 /* BCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53D7098827E237A0004C0B39 /* BCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		53706BC727E2142A001190D9 /* Maciej CardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Maciej CardUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		53706BCB27E2142A001190D9 /* Maciej_CardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Maciej_CardUITests.swift; sourceTree = "<group>"; };
 		53706BCD27E2142A001190D9 /* Maciej_CardUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Maciej_CardUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		53D7098827E237A0004C0B39 /* BCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				53706BB027E21427001190D9 /* Maciej_CardApp.swift */,
+				53D7098827E237A0004C0B39 /* BCardView.swift */,
 				53706BB227E21427001190D9 /* ContentView.swift */,
 				53706BB427E21429001190D9 /* Assets.xcassets */,
 				53706BB627E21429001190D9 /* Preview Content */,
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				53706BB327E21427001190D9 /* ContentView.swift in Sources */,
+				53D7098927E237A0004C0B39 /* BCardView.swift in Sources */,
 				53706BB127E21427001190D9 /* Maciej_CardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
